@@ -21,7 +21,7 @@ useEffect(()=>{
         <h1>SpringBootNCPGradle</h1>
 
         <img src='../image/peng.png' alt='cake' width='100px' height='100px'/>
-     
+        <input type="file" />
     </div>
   );
 };
